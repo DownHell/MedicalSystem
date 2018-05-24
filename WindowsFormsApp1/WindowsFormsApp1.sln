@@ -22,8 +22,6 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3796AAA5-905E-418A-A1DE-C64FED46A198}
 	EndGlobalSection
-<<<<<<< HEAD
-=======
 	GlobalSection(TeamFoundationVersionControl) = preSolution
 		SccNumberOfProjects = 2
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
@@ -33,5 +31,4 @@ Global
 		SccProjectName1 = WindowsFormsApp1
 		SccLocalPath1 = WindowsFormsApp1
 	EndGlobalSection
->>>>>>> master
 EndGlobal
