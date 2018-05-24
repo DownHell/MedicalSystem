@@ -77,11 +77,16 @@ namespace WindowsFormsApp1
             //this.Hide();
             form1.Show();
         }
-
+        
         private void button1_Click(object sender, EventArgs e)
         {
             Form3 form3 = new Form3();
             form3.Show();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("我投尼玛");
         }
     }
 }
