@@ -217,117 +217,6 @@
             this.button17 = new System.Windows.Forms.Button();
             this.button18 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
-            this.tabPage8 = new System.Windows.Forms.TabPage();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox17 = new System.Windows.Forms.TextBox();
-            this.textBox18 = new System.Windows.Forms.TextBox();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.dataGridView7 = new System.Windows.Forms.DataGridView();
-            this.comboBox11 = new System.Windows.Forms.ComboBox();
-            this.comboBox12 = new System.Windows.Forms.ComboBox();
-            this.comboBox13 = new System.Windows.Forms.ComboBox();
-            this.comboBox14 = new System.Windows.Forms.ComboBox();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button38 = new System.Windows.Forms.Button();
-            this.tabPage9 = new System.Windows.Forms.TabPage();
-            this.button39 = new System.Windows.Forms.Button();
-            this.button40 = new System.Windows.Forms.Button();
-            this.button41 = new System.Windows.Forms.Button();
-            this.button42 = new System.Windows.Forms.Button();
-            this.dataGridView8 = new System.Windows.Forms.DataGridView();
-            this.comboBox15 = new System.Windows.Forms.ComboBox();
-            this.label34 = new System.Windows.Forms.Label();
-            this.tabPage10 = new System.Windows.Forms.TabPage();
-            this.dataGridView9 = new System.Windows.Forms.DataGridView();
-            this.button43 = new System.Windows.Forms.Button();
-            this.button44 = new System.Windows.Forms.Button();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.comboBox16 = new System.Windows.Forms.ComboBox();
-            this.comboBox17 = new System.Windows.Forms.ComboBox();
-            this.comboBox18 = new System.Windows.Forms.ComboBox();
-            this.comboBox19 = new System.Windows.Forms.ComboBox();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.tabPage11 = new System.Windows.Forms.TabPage();
-            this.dataGridView10 = new System.Windows.Forms.DataGridView();
-            this.label41 = new System.Windows.Forms.Label();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.textBox23 = new System.Windows.Forms.TextBox();
-            this.textBox24 = new System.Windows.Forms.TextBox();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
-            this.label44 = new System.Windows.Forms.Label();
-            this.button45 = new System.Windows.Forms.Button();
-            this.comboBox20 = new System.Windows.Forms.ComboBox();
-            this.comboBox21 = new System.Windows.Forms.ComboBox();
-            this.comboBox22 = new System.Windows.Forms.ComboBox();
-            this.label45 = new System.Windows.Forms.Label();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label48 = new System.Windows.Forms.Label();
-            this.label49 = new System.Windows.Forms.Label();
-            this.tabPage12 = new System.Windows.Forms.TabPage();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.textBox27 = new System.Windows.Forms.TextBox();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.textBox30 = new System.Windows.Forms.TextBox();
-            this.label50 = new System.Windows.Forms.Label();
-            this.label51 = new System.Windows.Forms.Label();
-            this.label52 = new System.Windows.Forms.Label();
-            this.dataGridView11 = new System.Windows.Forms.DataGridView();
-            this.button46 = new System.Windows.Forms.Button();
-            this.button47 = new System.Windows.Forms.Button();
-            this.comboBox23 = new System.Windows.Forms.ComboBox();
-            this.comboBox24 = new System.Windows.Forms.ComboBox();
-            this.comboBox25 = new System.Windows.Forms.ComboBox();
-            this.comboBox26 = new System.Windows.Forms.ComboBox();
-            this.label53 = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
-            this.label55 = new System.Windows.Forms.Label();
-            this.label56 = new System.Windows.Forms.Label();
-            this.label57 = new System.Windows.Forms.Label();
-            this.label58 = new System.Windows.Forms.Label();
-            this.tabPage13 = new System.Windows.Forms.TabPage();
-            this.button48 = new System.Windows.Forms.Button();
-            this.button49 = new System.Windows.Forms.Button();
-            this.textBox31 = new System.Windows.Forms.TextBox();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.textBox33 = new System.Windows.Forms.TextBox();
-            this.label59 = new System.Windows.Forms.Label();
-            this.dataGridView12 = new System.Windows.Forms.DataGridView();
-            this.button50 = new System.Windows.Forms.Button();
-            this.button51 = new System.Windows.Forms.Button();
-            this.comboBox27 = new System.Windows.Forms.ComboBox();
-            this.comboBox28 = new System.Windows.Forms.ComboBox();
-            this.comboBox29 = new System.Windows.Forms.ComboBox();
-            this.comboBox30 = new System.Windows.Forms.ComboBox();
-            this.label60 = new System.Windows.Forms.Label();
-            this.label61 = new System.Windows.Forms.Label();
-            this.label62 = new System.Windows.Forms.Label();
-            this.label63 = new System.Windows.Forms.Label();
-            this.label64 = new System.Windows.Forms.Label();
-            this.label65 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -343,18 +232,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).BeginInit();
             this.tabPage7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            this.tabPage8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView7)).BeginInit();
-            this.tabPage9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView8)).BeginInit();
-            this.tabPage10.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).BeginInit();
-            this.tabPage11.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView10)).BeginInit();
-            this.tabPage12.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).BeginInit();
-            this.tabPage13.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView12)).BeginInit();
             this.SuspendLayout();
             // 
             // treeView2
@@ -444,7 +321,7 @@
             treeNode29,
             treeNode32});
             this.treeView2.SelectedImageIndex = 0;
-            this.treeView2.Size = new System.Drawing.Size(434, 487);
+            this.treeView2.Size = new System.Drawing.Size(328, 491);
             this.treeView2.TabIndex = 1;
             // 
             // imageList1
@@ -483,17 +360,11 @@
             this.tabControl1.Controls.Add(this.tabPage5);
             this.tabControl1.Controls.Add(this.tabPage6);
             this.tabControl1.Controls.Add(this.tabPage7);
-            this.tabControl1.Controls.Add(this.tabPage8);
-            this.tabControl1.Controls.Add(this.tabPage9);
-            this.tabControl1.Controls.Add(this.tabPage10);
-            this.tabControl1.Controls.Add(this.tabPage11);
-            this.tabControl1.Controls.Add(this.tabPage12);
-            this.tabControl1.Controls.Add(this.tabPage13);
             this.tabControl1.Location = new System.Drawing.Point(148, 2);
             this.tabControl1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1036, 509);
+            this.tabControl1.Size = new System.Drawing.Size(930, 513);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -531,7 +402,7 @@
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.tabPage1.Size = new System.Drawing.Size(1028, 480);
+            this.tabPage1.Size = new System.Drawing.Size(922, 484);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "个人信息";
             // 
@@ -805,7 +676,7 @@
             this.tabPage2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.tabPage2.Size = new System.Drawing.Size(1028, 480);
+            this.tabPage2.Size = new System.Drawing.Size(922, 484);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "学生信息";
             // 
@@ -857,7 +728,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dataGridView1.RowTemplate.Height = 27;
-            this.dataGridView1.Size = new System.Drawing.Size(1030, 397);
+            this.dataGridView1.Size = new System.Drawing.Size(924, 401);
             this.dataGridView1.TabIndex = 39;
             this.dataGridView1.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(this.dataGridView1_RowPostPaint);
             // 
@@ -1218,7 +1089,7 @@
             this.tabPage3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.tabPage3.Size = new System.Drawing.Size(1028, 480);
+            this.tabPage3.Size = new System.Drawing.Size(922, 484);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "专业管理";
             // 
@@ -1246,7 +1117,7 @@
             this.dataGridView5.Name = "dataGridView5";
             this.dataGridView5.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dataGridView5.RowTemplate.Height = 27;
-            this.dataGridView5.Size = new System.Drawing.Size(1021, 399);
+            this.dataGridView5.Size = new System.Drawing.Size(915, 403);
             this.dataGridView5.TabIndex = 64;
             // 
             // dataGridViewTextBoxColumn10
@@ -1371,7 +1242,7 @@
             this.tabPage4.Location = new System.Drawing.Point(4, 25);
             this.tabPage4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(1028, 480);
+            this.tabPage4.Size = new System.Drawing.Size(922, 484);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "年级管理";
             // 
@@ -1439,7 +1310,7 @@
             this.dataGridView4.Name = "dataGridView4";
             this.dataGridView4.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dataGridView4.RowTemplate.Height = 27;
-            this.dataGridView4.Size = new System.Drawing.Size(1021, 399);
+            this.dataGridView4.Size = new System.Drawing.Size(915, 403);
             this.dataGridView4.TabIndex = 54;
             // 
             // dataGridViewTextBoxColumn12
@@ -1527,7 +1398,7 @@
             this.tabPage5.Location = new System.Drawing.Point(4, 25);
             this.tabPage5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(1117, 574);
+            this.tabPage5.Size = new System.Drawing.Size(922, 484);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "班级管理";
             // 
@@ -1557,7 +1428,7 @@
             this.dataGridView3.Name = "dataGridView3";
             this.dataGridView3.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dataGridView3.RowTemplate.Height = 27;
-            this.dataGridView3.Size = new System.Drawing.Size(1116, 502);
+            this.dataGridView3.Size = new System.Drawing.Size(916, 403);
             this.dataGridView3.TabIndex = 53;
             this.dataGridView3.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(this.dataGridView3_RowPostPaint);
             // 
@@ -1731,7 +1602,7 @@
             this.tabPage6.Location = new System.Drawing.Point(4, 25);
             this.tabPage6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(1117, 574);
+            this.tabPage6.Size = new System.Drawing.Size(922, 484);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "练习方案管理";
             // 
@@ -1795,7 +1666,7 @@
             this.dataGridView6.Name = "dataGridView6";
             this.dataGridView6.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dataGridView6.RowTemplate.Height = 27;
-            this.dataGridView6.Size = new System.Drawing.Size(1110, 497);
+            this.dataGridView6.Size = new System.Drawing.Size(915, 403);
             this.dataGridView6.TabIndex = 55;
             // 
             // dataGridViewTextBoxColumn14
@@ -1886,7 +1757,7 @@
             this.tabPage7.Location = new System.Drawing.Point(4, 25);
             this.tabPage7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(1136, 558);
+            this.tabPage7.Size = new System.Drawing.Size(922, 484);
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "练习关卡管理";
             // 
@@ -1916,7 +1787,7 @@
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dataGridView2.RowTemplate.Height = 27;
-            this.dataGridView2.Size = new System.Drawing.Size(1129, 477);
+            this.dataGridView2.Size = new System.Drawing.Size(915, 403);
             this.dataGridView2.TabIndex = 44;
             this.dataGridView2.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(this.dataGridView2_RowPostPaint);
             // 
@@ -2038,1187 +1909,11 @@
             this.button19.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button19.UseVisualStyleBackColor = true;
             // 
-            // tabPage8
-            // 
-            this.tabPage8.Controls.Add(this.textBox16);
-            this.tabPage8.Controls.Add(this.textBox14);
-            this.tabPage8.Controls.Add(this.textBox15);
-            this.tabPage8.Controls.Add(this.textBox17);
-            this.tabPage8.Controls.Add(this.textBox18);
-            this.tabPage8.Controls.Add(this.label31);
-            this.tabPage8.Controls.Add(this.label30);
-            this.tabPage8.Controls.Add(this.label25);
-            this.tabPage8.Controls.Add(this.button3);
-            this.tabPage8.Controls.Add(this.button6);
-            this.tabPage8.Controls.Add(this.button1);
-            this.tabPage8.Controls.Add(this.dataGridView7);
-            this.tabPage8.Controls.Add(this.comboBox11);
-            this.tabPage8.Controls.Add(this.comboBox12);
-            this.tabPage8.Controls.Add(this.comboBox13);
-            this.tabPage8.Controls.Add(this.comboBox14);
-            this.tabPage8.Controls.Add(this.label26);
-            this.tabPage8.Controls.Add(this.label27);
-            this.tabPage8.Controls.Add(this.label28);
-            this.tabPage8.Controls.Add(this.label29);
-            this.tabPage8.Controls.Add(this.label32);
-            this.tabPage8.Controls.Add(this.label33);
-            this.tabPage8.Controls.Add(this.button7);
-            this.tabPage8.Controls.Add(this.button38);
-            this.tabPage8.Location = new System.Drawing.Point(4, 25);
-            this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage8.Size = new System.Drawing.Size(1114, 524);
-            this.tabPage8.TabIndex = 7;
-            this.tabPage8.Text = "练习记录";
-            this.tabPage8.UseVisualStyleBackColor = true;
-            // 
-            // textBox16
-            // 
-            this.textBox16.Location = new System.Drawing.Point(763, 104);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(100, 21);
-            this.textBox16.TabIndex = 49;
-            // 
-            // textBox14
-            // 
-            this.textBox14.Location = new System.Drawing.Point(431, 104);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(100, 21);
-            this.textBox14.TabIndex = 47;
-            // 
-            // textBox15
-            // 
-            this.textBox15.Location = new System.Drawing.Point(104, 104);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(100, 21);
-            this.textBox15.TabIndex = 45;
-            // 
-            // textBox17
-            // 
-            this.textBox17.Location = new System.Drawing.Point(261, 62);
-            this.textBox17.Name = "textBox17";
-            this.textBox17.Size = new System.Drawing.Size(74, 21);
-            this.textBox17.TabIndex = 39;
-            // 
-            // textBox18
-            // 
-            this.textBox18.Location = new System.Drawing.Point(104, 61);
-            this.textBox18.Name = "textBox18";
-            this.textBox18.Size = new System.Drawing.Size(74, 21);
-            this.textBox18.TabIndex = 38;
-            // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(703, 108);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(65, 12);
-            this.label31.TabIndex = 48;
-            this.label31.Text = "积分情况：";
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(371, 108);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(53, 12);
-            this.label30.TabIndex = 46;
-            this.label30.Text = "错误率：";
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(26, 108);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(53, 12);
-            this.label25.TabIndex = 44;
-            this.label25.Text = "正确率：";
-            // 
-            // button3
-            // 
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.ImageIndex = 5;
-            this.button3.ImageList = this.imageList1;
-            this.button3.Location = new System.Drawing.Point(475, 16);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(60, 25);
-            this.button3.TabIndex = 43;
-            this.button3.Text = "删除";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.FlatAppearance.BorderSize = 0;
-            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button6.ImageIndex = 1;
-            this.button6.ImageList = this.imageList1;
-            this.button6.Location = new System.Drawing.Point(925, 18);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(83, 25);
-            this.button6.TabIndex = 42;
-            this.button6.Text = "查询全部";
-            this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button1
-            // 
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.ImageIndex = 1;
-            this.button1.ImageList = this.imageList1;
-            this.button1.Location = new System.Drawing.Point(700, 18);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(60, 25);
-            this.button1.TabIndex = 41;
-            this.button1.Text = "查询";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // dataGridView7
-            // 
-            this.dataGridView7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView7.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView7.Location = new System.Drawing.Point(13, 150);
-            this.dataGridView7.Name = "dataGridView7";
-            this.dataGridView7.RowTemplate.Height = 23;
-            this.dataGridView7.Size = new System.Drawing.Size(1077, 366);
-            this.dataGridView7.TabIndex = 40;
-            // 
-            // comboBox11
-            // 
-            this.comboBox11.FormattingEnabled = true;
-            this.comboBox11.Location = new System.Drawing.Point(916, 62);
-            this.comboBox11.Name = "comboBox11";
-            this.comboBox11.Size = new System.Drawing.Size(83, 20);
-            this.comboBox11.TabIndex = 37;
-            // 
-            // comboBox12
-            // 
-            this.comboBox12.FormattingEnabled = true;
-            this.comboBox12.Location = new System.Drawing.Point(750, 62);
-            this.comboBox12.Name = "comboBox12";
-            this.comboBox12.Size = new System.Drawing.Size(83, 20);
-            this.comboBox12.TabIndex = 36;
-            // 
-            // comboBox13
-            // 
-            this.comboBox13.FormattingEnabled = true;
-            this.comboBox13.Location = new System.Drawing.Point(584, 62);
-            this.comboBox13.Name = "comboBox13";
-            this.comboBox13.Size = new System.Drawing.Size(83, 20);
-            this.comboBox13.TabIndex = 35;
-            // 
-            // comboBox14
-            // 
-            this.comboBox14.FormattingEnabled = true;
-            this.comboBox14.Location = new System.Drawing.Point(418, 62);
-            this.comboBox14.Name = "comboBox14";
-            this.comboBox14.Size = new System.Drawing.Size(83, 20);
-            this.comboBox14.TabIndex = 34;
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(869, 66);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(41, 12);
-            this.label26.TabIndex = 33;
-            this.label26.Text = "关卡：";
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(703, 66);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(41, 12);
-            this.label27.TabIndex = 32;
-            this.label27.Text = "班级：";
-            // 
-            // label28
-            // 
-            this.label28.AutoSize = true;
-            this.label28.Location = new System.Drawing.Point(537, 66);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(41, 12);
-            this.label28.TabIndex = 31;
-            this.label28.Text = "年级：";
-            // 
-            // label29
-            // 
-            this.label29.AutoSize = true;
-            this.label29.Location = new System.Drawing.Point(371, 66);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(41, 12);
-            this.label29.TabIndex = 30;
-            this.label29.Text = "专业：";
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(214, 66);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(41, 12);
-            this.label32.TabIndex = 29;
-            this.label32.Text = "学号：";
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(26, 65);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(41, 12);
-            this.label33.TabIndex = 28;
-            this.label33.Text = "姓名：";
-            // 
-            // button7
-            // 
-            this.button7.FlatAppearance.BorderSize = 0;
-            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button7.ImageIndex = 2;
-            this.button7.ImageList = this.imageList1;
-            this.button7.Location = new System.Drawing.Point(261, 18);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(60, 25);
-            this.button7.TabIndex = 27;
-            this.button7.Text = "修改";
-            this.button7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // button38
-            // 
-            this.button38.FlatAppearance.BorderSize = 0;
-            this.button38.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button38.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button38.ImageIndex = 1;
-            this.button38.ImageList = this.imageList1;
-            this.button38.Location = new System.Drawing.Point(26, 16);
-            this.button38.Name = "button38";
-            this.button38.Size = new System.Drawing.Size(60, 25);
-            this.button38.TabIndex = 26;
-            this.button38.Text = "添加";
-            this.button38.TextAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.button38.UseVisualStyleBackColor = true;
-            // 
-            // tabPage9
-            // 
-            this.tabPage9.Controls.Add(this.button39);
-            this.tabPage9.Controls.Add(this.button40);
-            this.tabPage9.Controls.Add(this.button41);
-            this.tabPage9.Controls.Add(this.button42);
-            this.tabPage9.Controls.Add(this.dataGridView8);
-            this.tabPage9.Controls.Add(this.comboBox15);
-            this.tabPage9.Controls.Add(this.label34);
-            this.tabPage9.Location = new System.Drawing.Point(4, 25);
-            this.tabPage9.Name = "tabPage9";
-            this.tabPage9.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage9.Size = new System.Drawing.Size(1028, 480);
-            this.tabPage9.TabIndex = 8;
-            this.tabPage9.Text = "考试方案管理";
-            this.tabPage9.UseVisualStyleBackColor = true;
-            // 
-            // button39
-            // 
-            this.button39.FlatAppearance.BorderSize = 0;
-            this.button39.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button39.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button39.ImageIndex = 5;
-            this.button39.ImageList = this.imageList1;
-            this.button39.Location = new System.Drawing.Point(471, 18);
-            this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(60, 25);
-            this.button39.TabIndex = 30;
-            this.button39.Text = "删除";
-            this.button39.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button39.UseVisualStyleBackColor = true;
-            // 
-            // button40
-            // 
-            this.button40.FlatAppearance.BorderSize = 0;
-            this.button40.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button40.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button40.ImageIndex = 1;
-            this.button40.ImageList = this.imageList1;
-            this.button40.Location = new System.Drawing.Point(696, 20);
-            this.button40.Name = "button40";
-            this.button40.Size = new System.Drawing.Size(60, 25);
-            this.button40.TabIndex = 29;
-            this.button40.Text = "查询";
-            this.button40.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button40.UseVisualStyleBackColor = true;
-            // 
-            // button41
-            // 
-            this.button41.FlatAppearance.BorderSize = 0;
-            this.button41.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button41.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button41.ImageIndex = 2;
-            this.button41.ImageList = this.imageList1;
-            this.button41.Location = new System.Drawing.Point(246, 20);
-            this.button41.Name = "button41";
-            this.button41.Size = new System.Drawing.Size(60, 25);
-            this.button41.TabIndex = 28;
-            this.button41.Text = "修改";
-            this.button41.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button41.UseVisualStyleBackColor = true;
-            // 
-            // button42
-            // 
-            this.button42.FlatAppearance.BorderSize = 0;
-            this.button42.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button42.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button42.ImageIndex = 1;
-            this.button42.ImageList = this.imageList1;
-            this.button42.Location = new System.Drawing.Point(21, 18);
-            this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(60, 25);
-            this.button42.TabIndex = 27;
-            this.button42.Text = "添加";
-            this.button42.TextAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.button42.UseVisualStyleBackColor = true;
-            // 
-            // dataGridView8
-            // 
-            this.dataGridView8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView8.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView8.Location = new System.Drawing.Point(24, 102);
-            this.dataGridView8.Name = "dataGridView8";
-            this.dataGridView8.RowTemplate.Height = 23;
-            this.dataGridView8.Size = new System.Drawing.Size(980, 357);
-            this.dataGridView8.TabIndex = 26;
-            // 
-            // comboBox15
-            // 
-            this.comboBox15.FormattingEnabled = true;
-            this.comboBox15.Location = new System.Drawing.Point(93, 61);
-            this.comboBox15.Name = "comboBox15";
-            this.comboBox15.Size = new System.Drawing.Size(121, 20);
-            this.comboBox15.TabIndex = 25;
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(22, 61);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(65, 12);
-            this.label34.TabIndex = 24;
-            this.label34.Text = "考试方案：";
-            // 
-            // tabPage10
-            // 
-            this.tabPage10.Controls.Add(this.dataGridView9);
-            this.tabPage10.Controls.Add(this.button43);
-            this.tabPage10.Controls.Add(this.button44);
-            this.tabPage10.Controls.Add(this.textBox19);
-            this.tabPage10.Controls.Add(this.textBox20);
-            this.tabPage10.Controls.Add(this.comboBox16);
-            this.tabPage10.Controls.Add(this.comboBox17);
-            this.tabPage10.Controls.Add(this.comboBox18);
-            this.tabPage10.Controls.Add(this.comboBox19);
-            this.tabPage10.Controls.Add(this.label35);
-            this.tabPage10.Controls.Add(this.label36);
-            this.tabPage10.Controls.Add(this.label37);
-            this.tabPage10.Controls.Add(this.label38);
-            this.tabPage10.Controls.Add(this.label39);
-            this.tabPage10.Controls.Add(this.label40);
-            this.tabPage10.Location = new System.Drawing.Point(4, 25);
-            this.tabPage10.Name = "tabPage10";
-            this.tabPage10.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage10.Size = new System.Drawing.Size(1028, 480);
-            this.tabPage10.TabIndex = 9;
-            this.tabPage10.Text = "考试记录";
-            this.tabPage10.UseVisualStyleBackColor = true;
-            // 
-            // dataGridView9
-            // 
-            this.dataGridView9.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView9.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView9.Location = new System.Drawing.Point(26, 97);
-            this.dataGridView9.Name = "dataGridView9";
-            this.dataGridView9.RowTemplate.Height = 23;
-            this.dataGridView9.Size = new System.Drawing.Size(977, 369);
-            this.dataGridView9.TabIndex = 48;
-            // 
-            // button43
-            // 
-            this.button43.FlatAppearance.BorderSize = 0;
-            this.button43.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button43.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button43.ImageIndex = 1;
-            this.button43.ImageList = this.imageList1;
-            this.button43.Location = new System.Drawing.Point(26, 46);
-            this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(75, 29);
-            this.button43.TabIndex = 47;
-            this.button43.Text = "查询全部";
-            this.button43.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button43.UseVisualStyleBackColor = true;
-            // 
-            // button44
-            // 
-            this.button44.FlatAppearance.BorderSize = 0;
-            this.button44.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button44.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button44.ImageIndex = 1;
-            this.button44.ImageList = this.imageList1;
-            this.button44.Location = new System.Drawing.Point(945, 14);
-            this.button44.Name = "button44";
-            this.button44.Size = new System.Drawing.Size(58, 29);
-            this.button44.TabIndex = 46;
-            this.button44.Text = "查询";
-            this.button44.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button44.UseVisualStyleBackColor = true;
-            // 
-            // textBox19
-            // 
-            this.textBox19.Location = new System.Drawing.Point(231, 18);
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(74, 21);
-            this.textBox19.TabIndex = 45;
-            // 
-            // textBox20
-            // 
-            this.textBox20.Location = new System.Drawing.Point(84, 18);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(74, 21);
-            this.textBox20.TabIndex = 44;
-            // 
-            // comboBox16
-            // 
-            this.comboBox16.FormattingEnabled = true;
-            this.comboBox16.Location = new System.Drawing.Point(846, 18);
-            this.comboBox16.Name = "comboBox16";
-            this.comboBox16.Size = new System.Drawing.Size(83, 20);
-            this.comboBox16.TabIndex = 43;
-            // 
-            // comboBox17
-            // 
-            this.comboBox17.FormattingEnabled = true;
-            this.comboBox17.Location = new System.Drawing.Point(690, 18);
-            this.comboBox17.Name = "comboBox17";
-            this.comboBox17.Size = new System.Drawing.Size(83, 20);
-            this.comboBox17.TabIndex = 42;
-            // 
-            // comboBox18
-            // 
-            this.comboBox18.FormattingEnabled = true;
-            this.comboBox18.Location = new System.Drawing.Point(534, 18);
-            this.comboBox18.Name = "comboBox18";
-            this.comboBox18.Size = new System.Drawing.Size(83, 20);
-            this.comboBox18.TabIndex = 41;
-            // 
-            // comboBox19
-            // 
-            this.comboBox19.FormattingEnabled = true;
-            this.comboBox19.Location = new System.Drawing.Point(378, 18);
-            this.comboBox19.Name = "comboBox19";
-            this.comboBox19.Size = new System.Drawing.Size(83, 20);
-            this.comboBox19.TabIndex = 40;
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Location = new System.Drawing.Point(789, 22);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(41, 12);
-            this.label35.TabIndex = 39;
-            this.label35.Text = "科目：";
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.Location = new System.Drawing.Point(633, 22);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(41, 12);
-            this.label36.TabIndex = 38;
-            this.label36.Text = "班级：";
-            // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.Location = new System.Drawing.Point(477, 22);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(41, 12);
-            this.label37.TabIndex = 37;
-            this.label37.Text = "年级：";
-            // 
-            // label38
-            // 
-            this.label38.AutoSize = true;
-            this.label38.Location = new System.Drawing.Point(321, 22);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(41, 12);
-            this.label38.TabIndex = 36;
-            this.label38.Text = "专业：";
-            // 
-            // label39
-            // 
-            this.label39.AutoSize = true;
-            this.label39.Location = new System.Drawing.Point(174, 22);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(41, 12);
-            this.label39.TabIndex = 35;
-            this.label39.Text = "学号：";
-            // 
-            // label40
-            // 
-            this.label40.AutoSize = true;
-            this.label40.Location = new System.Drawing.Point(27, 22);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(41, 12);
-            this.label40.TabIndex = 34;
-            this.label40.Text = "姓名：";
-            // 
-            // tabPage11
-            // 
-            this.tabPage11.Controls.Add(this.dataGridView10);
-            this.tabPage11.Controls.Add(this.label41);
-            this.tabPage11.Controls.Add(this.textBox21);
-            this.tabPage11.Controls.Add(this.textBox22);
-            this.tabPage11.Controls.Add(this.textBox23);
-            this.tabPage11.Controls.Add(this.textBox24);
-            this.tabPage11.Controls.Add(this.textBox25);
-            this.tabPage11.Controls.Add(this.label42);
-            this.tabPage11.Controls.Add(this.label43);
-            this.tabPage11.Controls.Add(this.label44);
-            this.tabPage11.Controls.Add(this.button45);
-            this.tabPage11.Controls.Add(this.comboBox20);
-            this.tabPage11.Controls.Add(this.comboBox21);
-            this.tabPage11.Controls.Add(this.comboBox22);
-            this.tabPage11.Controls.Add(this.label45);
-            this.tabPage11.Controls.Add(this.label46);
-            this.tabPage11.Controls.Add(this.label47);
-            this.tabPage11.Controls.Add(this.label48);
-            this.tabPage11.Controls.Add(this.label49);
-            this.tabPage11.Location = new System.Drawing.Point(4, 25);
-            this.tabPage11.Name = "tabPage11";
-            this.tabPage11.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage11.Size = new System.Drawing.Size(1028, 480);
-            this.tabPage11.TabIndex = 10;
-            this.tabPage11.Text = "积分排行榜";
-            this.tabPage11.UseVisualStyleBackColor = true;
-            // 
-            // dataGridView10
-            // 
-            this.dataGridView10.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView10.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView10.Location = new System.Drawing.Point(96, 174);
-            this.dataGridView10.Name = "dataGridView10";
-            this.dataGridView10.RowTemplate.Height = 23;
-            this.dataGridView10.Size = new System.Drawing.Size(904, 289);
-            this.dataGridView10.TabIndex = 73;
-            // 
-            // label41
-            // 
-            this.label41.AutoSize = true;
-            this.label41.Location = new System.Drawing.Point(833, 108);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(41, 12);
-            this.label41.TabIndex = 72;
-            this.label41.Text = "等级：";
-            // 
-            // textBox21
-            // 
-            this.textBox21.Location = new System.Drawing.Point(900, 104);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(100, 21);
-            this.textBox21.TabIndex = 71;
-            // 
-            // textBox22
-            // 
-            this.textBox22.Location = new System.Drawing.Point(667, 104);
-            this.textBox22.Name = "textBox22";
-            this.textBox22.Size = new System.Drawing.Size(83, 21);
-            this.textBox22.TabIndex = 69;
-            // 
-            // textBox23
-            // 
-            this.textBox23.Location = new System.Drawing.Point(409, 104);
-            this.textBox23.Name = "textBox23";
-            this.textBox23.Size = new System.Drawing.Size(74, 21);
-            this.textBox23.TabIndex = 66;
-            // 
-            // textBox24
-            // 
-            this.textBox24.Location = new System.Drawing.Point(409, 51);
-            this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(74, 21);
-            this.textBox24.TabIndex = 64;
-            // 
-            // textBox25
-            // 
-            this.textBox25.Location = new System.Drawing.Point(141, 51);
-            this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(83, 21);
-            this.textBox25.TabIndex = 63;
-            // 
-            // label42
-            // 
-            this.label42.AutoSize = true;
-            this.label42.Location = new System.Drawing.Point(600, 108);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(41, 12);
-            this.label42.TabIndex = 70;
-            this.label42.Text = "积分：";
-            // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Location = new System.Drawing.Point(362, 108);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(41, 12);
-            this.label43.TabIndex = 68;
-            this.label43.Text = "排名：";
-            // 
-            // label44
-            // 
-            this.label44.AutoSize = true;
-            this.label44.Location = new System.Drawing.Point(29, 18);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(65, 12);
-            this.label44.TabIndex = 67;
-            this.label44.Text = "我的排名：";
-            // 
-            // button45
-            // 
-            this.button45.FlatAppearance.BorderSize = 0;
-            this.button45.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button45.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button45.ImageIndex = 1;
-            this.button45.ImageList = this.imageList1;
-            this.button45.Location = new System.Drawing.Point(31, 145);
-            this.button45.Name = "button45";
-            this.button45.Size = new System.Drawing.Size(93, 23);
-            this.button45.TabIndex = 65;
-            this.button45.Text = "查询全部：";
-            this.button45.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button45.UseVisualStyleBackColor = true;
-            // 
-            // comboBox20
-            // 
-            this.comboBox20.FormattingEnabled = true;
-            this.comboBox20.Location = new System.Drawing.Point(667, 51);
-            this.comboBox20.Name = "comboBox20";
-            this.comboBox20.Size = new System.Drawing.Size(83, 20);
-            this.comboBox20.TabIndex = 62;
-            // 
-            // comboBox21
-            // 
-            this.comboBox21.FormattingEnabled = true;
-            this.comboBox21.Location = new System.Drawing.Point(141, 104);
-            this.comboBox21.Name = "comboBox21";
-            this.comboBox21.Size = new System.Drawing.Size(83, 20);
-            this.comboBox21.TabIndex = 61;
-            // 
-            // comboBox22
-            // 
-            this.comboBox22.FormattingEnabled = true;
-            this.comboBox22.Location = new System.Drawing.Point(900, 51);
-            this.comboBox22.Name = "comboBox22";
-            this.comboBox22.Size = new System.Drawing.Size(100, 20);
-            this.comboBox22.TabIndex = 60;
-            // 
-            // label45
-            // 
-            this.label45.AutoSize = true;
-            this.label45.Location = new System.Drawing.Point(600, 55);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(41, 12);
-            this.label45.TabIndex = 59;
-            this.label45.Text = "班级：";
-            // 
-            // label46
-            // 
-            this.label46.AutoSize = true;
-            this.label46.Location = new System.Drawing.Point(94, 108);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(41, 12);
-            this.label46.TabIndex = 58;
-            this.label46.Text = "年级：";
-            // 
-            // label47
-            // 
-            this.label47.AutoSize = true;
-            this.label47.Location = new System.Drawing.Point(833, 55);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(41, 12);
-            this.label47.TabIndex = 57;
-            this.label47.Text = "专业：";
-            // 
-            // label48
-            // 
-            this.label48.AutoSize = true;
-            this.label48.Location = new System.Drawing.Point(362, 55);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(41, 12);
-            this.label48.TabIndex = 56;
-            this.label48.Text = "学号：";
-            // 
-            // label49
-            // 
-            this.label49.AutoSize = true;
-            this.label49.Location = new System.Drawing.Point(94, 55);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(41, 12);
-            this.label49.TabIndex = 55;
-            this.label49.Text = "姓名：";
-            // 
-            // tabPage12
-            // 
-            this.tabPage12.Controls.Add(this.textBox26);
-            this.tabPage12.Controls.Add(this.textBox27);
-            this.tabPage12.Controls.Add(this.textBox28);
-            this.tabPage12.Controls.Add(this.textBox29);
-            this.tabPage12.Controls.Add(this.textBox30);
-            this.tabPage12.Controls.Add(this.label50);
-            this.tabPage12.Controls.Add(this.label51);
-            this.tabPage12.Controls.Add(this.label52);
-            this.tabPage12.Controls.Add(this.dataGridView11);
-            this.tabPage12.Controls.Add(this.button46);
-            this.tabPage12.Controls.Add(this.button47);
-            this.tabPage12.Controls.Add(this.comboBox23);
-            this.tabPage12.Controls.Add(this.comboBox24);
-            this.tabPage12.Controls.Add(this.comboBox25);
-            this.tabPage12.Controls.Add(this.comboBox26);
-            this.tabPage12.Controls.Add(this.label53);
-            this.tabPage12.Controls.Add(this.label54);
-            this.tabPage12.Controls.Add(this.label55);
-            this.tabPage12.Controls.Add(this.label56);
-            this.tabPage12.Controls.Add(this.label57);
-            this.tabPage12.Controls.Add(this.label58);
-            this.tabPage12.Location = new System.Drawing.Point(4, 25);
-            this.tabPage12.Name = "tabPage12";
-            this.tabPage12.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage12.Size = new System.Drawing.Size(1028, 480);
-            this.tabPage12.TabIndex = 11;
-            this.tabPage12.Text = "闯关情况";
-            this.tabPage12.UseVisualStyleBackColor = true;
-            // 
-            // textBox26
-            // 
-            this.textBox26.Location = new System.Drawing.Point(769, 74);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(100, 21);
-            this.textBox26.TabIndex = 75;
-            // 
-            // textBox27
-            // 
-            this.textBox27.Location = new System.Drawing.Point(437, 74);
-            this.textBox27.Name = "textBox27";
-            this.textBox27.Size = new System.Drawing.Size(100, 21);
-            this.textBox27.TabIndex = 73;
-            // 
-            // textBox28
-            // 
-            this.textBox28.Location = new System.Drawing.Point(110, 74);
-            this.textBox28.Name = "textBox28";
-            this.textBox28.Size = new System.Drawing.Size(100, 21);
-            this.textBox28.TabIndex = 71;
-            // 
-            // textBox29
-            // 
-            this.textBox29.Location = new System.Drawing.Point(236, 29);
-            this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(74, 21);
-            this.textBox29.TabIndex = 66;
-            // 
-            // textBox30
-            // 
-            this.textBox30.Location = new System.Drawing.Point(89, 29);
-            this.textBox30.Name = "textBox30";
-            this.textBox30.Size = new System.Drawing.Size(74, 21);
-            this.textBox30.TabIndex = 65;
-            // 
-            // label50
-            // 
-            this.label50.AutoSize = true;
-            this.label50.Location = new System.Drawing.Point(709, 78);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(65, 12);
-            this.label50.TabIndex = 74;
-            this.label50.Text = "积分情况：";
-            // 
-            // label51
-            // 
-            this.label51.AutoSize = true;
-            this.label51.Location = new System.Drawing.Point(377, 78);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(53, 12);
-            this.label51.TabIndex = 72;
-            this.label51.Text = "错误率：";
-            // 
-            // label52
-            // 
-            this.label52.AutoSize = true;
-            this.label52.Location = new System.Drawing.Point(32, 78);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(53, 12);
-            this.label52.TabIndex = 70;
-            this.label52.Text = "正确率：";
-            // 
-            // dataGridView11
-            // 
-            this.dataGridView11.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView11.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView11.Location = new System.Drawing.Point(21, 178);
-            this.dataGridView11.Name = "dataGridView11";
-            this.dataGridView11.RowTemplate.Height = 23;
-            this.dataGridView11.Size = new System.Drawing.Size(955, 278);
-            this.dataGridView11.TabIndex = 69;
-            // 
-            // button46
-            // 
-            this.button46.FlatAppearance.BorderSize = 0;
-            this.button46.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button46.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button46.ImageIndex = 1;
-            this.button46.ImageList = this.imageList1;
-            this.button46.Location = new System.Drawing.Point(21, 127);
-            this.button46.Name = "button46";
-            this.button46.Size = new System.Drawing.Size(75, 29);
-            this.button46.TabIndex = 68;
-            this.button46.Text = "查询全部";
-            this.button46.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button46.UseVisualStyleBackColor = true;
-            // 
-            // button47
-            // 
-            this.button47.FlatAppearance.BorderSize = 0;
-            this.button47.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button47.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button47.ImageIndex = 1;
-            this.button47.ImageList = this.imageList1;
-            this.button47.Location = new System.Drawing.Point(950, 25);
-            this.button47.Name = "button47";
-            this.button47.Size = new System.Drawing.Size(58, 29);
-            this.button47.TabIndex = 67;
-            this.button47.Text = "查询";
-            this.button47.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button47.UseVisualStyleBackColor = true;
-            // 
-            // comboBox23
-            // 
-            this.comboBox23.FormattingEnabled = true;
-            this.comboBox23.Location = new System.Drawing.Point(851, 29);
-            this.comboBox23.Name = "comboBox23";
-            this.comboBox23.Size = new System.Drawing.Size(83, 20);
-            this.comboBox23.TabIndex = 64;
-            // 
-            // comboBox24
-            // 
-            this.comboBox24.FormattingEnabled = true;
-            this.comboBox24.Location = new System.Drawing.Point(695, 29);
-            this.comboBox24.Name = "comboBox24";
-            this.comboBox24.Size = new System.Drawing.Size(83, 20);
-            this.comboBox24.TabIndex = 63;
-            // 
-            // comboBox25
-            // 
-            this.comboBox25.FormattingEnabled = true;
-            this.comboBox25.Location = new System.Drawing.Point(539, 29);
-            this.comboBox25.Name = "comboBox25";
-            this.comboBox25.Size = new System.Drawing.Size(83, 20);
-            this.comboBox25.TabIndex = 62;
-            // 
-            // comboBox26
-            // 
-            this.comboBox26.FormattingEnabled = true;
-            this.comboBox26.Location = new System.Drawing.Point(383, 29);
-            this.comboBox26.Name = "comboBox26";
-            this.comboBox26.Size = new System.Drawing.Size(83, 20);
-            this.comboBox26.TabIndex = 61;
-            // 
-            // label53
-            // 
-            this.label53.AutoSize = true;
-            this.label53.Location = new System.Drawing.Point(794, 33);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(41, 12);
-            this.label53.TabIndex = 60;
-            this.label53.Text = "关卡：";
-            // 
-            // label54
-            // 
-            this.label54.AutoSize = true;
-            this.label54.Location = new System.Drawing.Point(638, 33);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(41, 12);
-            this.label54.TabIndex = 59;
-            this.label54.Text = "班级：";
-            // 
-            // label55
-            // 
-            this.label55.AutoSize = true;
-            this.label55.Location = new System.Drawing.Point(482, 33);
-            this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(41, 12);
-            this.label55.TabIndex = 58;
-            this.label55.Text = "年级：";
-            // 
-            // label56
-            // 
-            this.label56.AutoSize = true;
-            this.label56.Location = new System.Drawing.Point(326, 33);
-            this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(41, 12);
-            this.label56.TabIndex = 57;
-            this.label56.Text = "专业：";
-            // 
-            // label57
-            // 
-            this.label57.AutoSize = true;
-            this.label57.Location = new System.Drawing.Point(179, 33);
-            this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(41, 12);
-            this.label57.TabIndex = 56;
-            this.label57.Text = "学号：";
-            // 
-            // label58
-            // 
-            this.label58.AutoSize = true;
-            this.label58.Location = new System.Drawing.Point(32, 33);
-            this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(41, 12);
-            this.label58.TabIndex = 55;
-            this.label58.Text = "姓名：";
-            // 
-            // tabPage13
-            // 
-            this.tabPage13.Controls.Add(this.button48);
-            this.tabPage13.Controls.Add(this.button49);
-            this.tabPage13.Controls.Add(this.textBox31);
-            this.tabPage13.Controls.Add(this.textBox32);
-            this.tabPage13.Controls.Add(this.textBox33);
-            this.tabPage13.Controls.Add(this.label59);
-            this.tabPage13.Controls.Add(this.dataGridView12);
-            this.tabPage13.Controls.Add(this.button50);
-            this.tabPage13.Controls.Add(this.button51);
-            this.tabPage13.Controls.Add(this.comboBox27);
-            this.tabPage13.Controls.Add(this.comboBox28);
-            this.tabPage13.Controls.Add(this.comboBox29);
-            this.tabPage13.Controls.Add(this.comboBox30);
-            this.tabPage13.Controls.Add(this.label60);
-            this.tabPage13.Controls.Add(this.label61);
-            this.tabPage13.Controls.Add(this.label62);
-            this.tabPage13.Controls.Add(this.label63);
-            this.tabPage13.Controls.Add(this.label64);
-            this.tabPage13.Controls.Add(this.label65);
-            this.tabPage13.Location = new System.Drawing.Point(4, 25);
-            this.tabPage13.Name = "tabPage13";
-            this.tabPage13.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage13.Size = new System.Drawing.Size(1028, 480);
-            this.tabPage13.TabIndex = 12;
-            this.tabPage13.Text = "成绩管理";
-            this.tabPage13.UseVisualStyleBackColor = true;
-            // 
-            // button48
-            // 
-            this.button48.FlatAppearance.BorderSize = 0;
-            this.button48.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button48.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button48.ImageIndex = 2;
-            this.button48.ImageList = this.imageList1;
-            this.button48.Location = new System.Drawing.Point(476, 26);
-            this.button48.Name = "button48";
-            this.button48.Size = new System.Drawing.Size(60, 25);
-            this.button48.TabIndex = 71;
-            this.button48.Text = "修改";
-            this.button48.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button48.UseVisualStyleBackColor = true;
-            // 
-            // button49
-            // 
-            this.button49.FlatAppearance.BorderSize = 0;
-            this.button49.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button49.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button49.ImageIndex = 1;
-            this.button49.ImageList = this.imageList1;
-            this.button49.Location = new System.Drawing.Point(270, 26);
-            this.button49.Name = "button49";
-            this.button49.Size = new System.Drawing.Size(60, 25);
-            this.button49.TabIndex = 70;
-            this.button49.Text = "添加";
-            this.button49.TextAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.button49.UseVisualStyleBackColor = true;
-            // 
-            // textBox31
-            // 
-            this.textBox31.Location = new System.Drawing.Point(683, 126);
-            this.textBox31.Name = "textBox31";
-            this.textBox31.Size = new System.Drawing.Size(83, 21);
-            this.textBox31.TabIndex = 69;
-            // 
-            // textBox32
-            // 
-            this.textBox32.Location = new System.Drawing.Point(381, 73);
-            this.textBox32.Name = "textBox32";
-            this.textBox32.Size = new System.Drawing.Size(83, 21);
-            this.textBox32.TabIndex = 64;
-            // 
-            // textBox33
-            // 
-            this.textBox33.Location = new System.Drawing.Point(94, 74);
-            this.textBox33.Name = "textBox33";
-            this.textBox33.Size = new System.Drawing.Size(83, 21);
-            this.textBox33.TabIndex = 63;
-            // 
-            // label59
-            // 
-            this.label59.AutoSize = true;
-            this.label59.Location = new System.Drawing.Point(626, 130);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(41, 12);
-            this.label59.TabIndex = 68;
-            this.label59.Text = "成绩：";
-            // 
-            // dataGridView12
-            // 
-            this.dataGridView12.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView12.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView12.Location = new System.Drawing.Point(38, 177);
-            this.dataGridView12.Name = "dataGridView12";
-            this.dataGridView12.RowTemplate.Height = 23;
-            this.dataGridView12.Size = new System.Drawing.Size(955, 278);
-            this.dataGridView12.TabIndex = 67;
-            // 
-            // button50
-            // 
-            this.button50.FlatAppearance.BorderSize = 0;
-            this.button50.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button50.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button50.ImageIndex = 1;
-            this.button50.ImageList = this.imageList1;
-            this.button50.Location = new System.Drawing.Point(36, 26);
-            this.button50.Name = "button50";
-            this.button50.Size = new System.Drawing.Size(88, 29);
-            this.button50.TabIndex = 66;
-            this.button50.Text = "查询全部";
-            this.button50.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button50.UseVisualStyleBackColor = true;
-            // 
-            // button51
-            // 
-            this.button51.FlatAppearance.BorderSize = 0;
-            this.button51.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button51.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button51.ImageIndex = 1;
-            this.button51.ImageList = this.imageList1;
-            this.button51.Location = new System.Drawing.Point(682, 26);
-            this.button51.Name = "button51";
-            this.button51.Size = new System.Drawing.Size(58, 29);
-            this.button51.TabIndex = 65;
-            this.button51.Text = "查询";
-            this.button51.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button51.UseVisualStyleBackColor = true;
-            // 
-            // comboBox27
-            // 
-            this.comboBox27.FormattingEnabled = true;
-            this.comboBox27.Location = new System.Drawing.Point(683, 73);
-            this.comboBox27.Name = "comboBox27";
-            this.comboBox27.Size = new System.Drawing.Size(83, 20);
-            this.comboBox27.TabIndex = 62;
-            // 
-            // comboBox28
-            // 
-            this.comboBox28.FormattingEnabled = true;
-            this.comboBox28.Location = new System.Drawing.Point(381, 127);
-            this.comboBox28.Name = "comboBox28";
-            this.comboBox28.Size = new System.Drawing.Size(83, 20);
-            this.comboBox28.TabIndex = 61;
-            // 
-            // comboBox29
-            // 
-            this.comboBox29.FormattingEnabled = true;
-            this.comboBox29.Location = new System.Drawing.Point(94, 128);
-            this.comboBox29.Name = "comboBox29";
-            this.comboBox29.Size = new System.Drawing.Size(83, 20);
-            this.comboBox29.TabIndex = 60;
-            // 
-            // comboBox30
-            // 
-            this.comboBox30.FormattingEnabled = true;
-            this.comboBox30.Location = new System.Drawing.Point(900, 70);
-            this.comboBox30.Name = "comboBox30";
-            this.comboBox30.Size = new System.Drawing.Size(83, 20);
-            this.comboBox30.TabIndex = 59;
-            // 
-            // label60
-            // 
-            this.label60.AutoSize = true;
-            this.label60.Location = new System.Drawing.Point(626, 77);
-            this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(41, 12);
-            this.label60.TabIndex = 58;
-            this.label60.Text = "科目：";
-            // 
-            // label61
-            // 
-            this.label61.AutoSize = true;
-            this.label61.Location = new System.Drawing.Point(324, 131);
-            this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(41, 12);
-            this.label61.TabIndex = 57;
-            this.label61.Text = "班级：";
-            // 
-            // label62
-            // 
-            this.label62.AutoSize = true;
-            this.label62.Location = new System.Drawing.Point(36, 132);
-            this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(41, 12);
-            this.label62.TabIndex = 56;
-            this.label62.Text = "年级：";
-            // 
-            // label63
-            // 
-            this.label63.AutoSize = true;
-            this.label63.Location = new System.Drawing.Point(843, 74);
-            this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(41, 12);
-            this.label63.TabIndex = 55;
-            this.label63.Text = "专业：";
-            // 
-            // label64
-            // 
-            this.label64.AutoSize = true;
-            this.label64.Location = new System.Drawing.Point(324, 77);
-            this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(41, 12);
-            this.label64.TabIndex = 54;
-            this.label64.Text = "学号：";
-            // 
-            // label65
-            // 
-            this.label65.AutoSize = true;
-            this.label65.Location = new System.Drawing.Point(36, 78);
-            this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(41, 12);
-            this.label65.TabIndex = 53;
-            this.label65.Text = "姓名：";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1184, 511);
+            this.ClientSize = new System.Drawing.Size(1078, 515);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.treeView2);
@@ -3247,24 +1942,6 @@
             this.tabPage7.ResumeLayout(false);
             this.tabPage7.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            this.tabPage8.ResumeLayout(false);
-            this.tabPage8.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView7)).EndInit();
-            this.tabPage9.ResumeLayout(false);
-            this.tabPage9.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView8)).EndInit();
-            this.tabPage10.ResumeLayout(false);
-            this.tabPage10.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).EndInit();
-            this.tabPage11.ResumeLayout(false);
-            this.tabPage11.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView10)).EndInit();
-            this.tabPage12.ResumeLayout(false);
-            this.tabPage12.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).EndInit();
-            this.tabPage13.ResumeLayout(false);
-            this.tabPage13.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView12)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -3397,117 +2074,6 @@
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button button18;
         private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.TabPage tabPage8;
-        private System.Windows.Forms.TextBox textBox16;
-        private System.Windows.Forms.TextBox textBox14;
-        private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.TextBox textBox17;
-        private System.Windows.Forms.TextBox textBox18;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.DataGridView dataGridView7;
-        private System.Windows.Forms.ComboBox comboBox11;
-        private System.Windows.Forms.ComboBox comboBox12;
-        private System.Windows.Forms.ComboBox comboBox13;
-        private System.Windows.Forms.ComboBox comboBox14;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button38;
-        private System.Windows.Forms.TabPage tabPage9;
-        private System.Windows.Forms.Button button39;
-        private System.Windows.Forms.Button button40;
-        private System.Windows.Forms.Button button41;
-        private System.Windows.Forms.Button button42;
-        private System.Windows.Forms.DataGridView dataGridView8;
-        private System.Windows.Forms.ComboBox comboBox15;
-        private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.TabPage tabPage10;
-        private System.Windows.Forms.DataGridView dataGridView9;
-        private System.Windows.Forms.Button button43;
-        private System.Windows.Forms.Button button44;
-        private System.Windows.Forms.TextBox textBox19;
-        private System.Windows.Forms.TextBox textBox20;
-        private System.Windows.Forms.ComboBox comboBox16;
-        private System.Windows.Forms.ComboBox comboBox17;
-        private System.Windows.Forms.ComboBox comboBox18;
-        private System.Windows.Forms.ComboBox comboBox19;
-        private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Label label38;
-        private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.TabPage tabPage11;
-        private System.Windows.Forms.DataGridView dataGridView10;
-        private System.Windows.Forms.Label label41;
-        private System.Windows.Forms.TextBox textBox21;
-        private System.Windows.Forms.TextBox textBox22;
-        private System.Windows.Forms.TextBox textBox23;
-        private System.Windows.Forms.TextBox textBox24;
-        private System.Windows.Forms.TextBox textBox25;
-        private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.Label label43;
-        private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Button button45;
-        private System.Windows.Forms.ComboBox comboBox20;
-        private System.Windows.Forms.ComboBox comboBox21;
-        private System.Windows.Forms.ComboBox comboBox22;
-        private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Label label48;
-        private System.Windows.Forms.Label label49;
-        private System.Windows.Forms.TabPage tabPage12;
-        private System.Windows.Forms.TextBox textBox26;
-        private System.Windows.Forms.TextBox textBox27;
-        private System.Windows.Forms.TextBox textBox28;
-        private System.Windows.Forms.TextBox textBox29;
-        private System.Windows.Forms.TextBox textBox30;
-        private System.Windows.Forms.Label label50;
-        private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.Label label52;
-        private System.Windows.Forms.DataGridView dataGridView11;
-        private System.Windows.Forms.Button button46;
-        private System.Windows.Forms.Button button47;
-        private System.Windows.Forms.ComboBox comboBox23;
-        private System.Windows.Forms.ComboBox comboBox24;
-        private System.Windows.Forms.ComboBox comboBox25;
-        private System.Windows.Forms.ComboBox comboBox26;
-        private System.Windows.Forms.Label label53;
-        private System.Windows.Forms.Label label54;
-        private System.Windows.Forms.Label label55;
-        private System.Windows.Forms.Label label56;
-        private System.Windows.Forms.Label label57;
-        private System.Windows.Forms.Label label58;
-        private System.Windows.Forms.TabPage tabPage13;
-        private System.Windows.Forms.Button button48;
-        private System.Windows.Forms.Button button49;
-        private System.Windows.Forms.TextBox textBox31;
-        private System.Windows.Forms.TextBox textBox32;
-        private System.Windows.Forms.TextBox textBox33;
-        private System.Windows.Forms.Label label59;
-        private System.Windows.Forms.DataGridView dataGridView12;
-        private System.Windows.Forms.Button button50;
-        private System.Windows.Forms.Button button51;
-        private System.Windows.Forms.ComboBox comboBox27;
-        private System.Windows.Forms.ComboBox comboBox28;
-        private System.Windows.Forms.ComboBox comboBox29;
-        private System.Windows.Forms.ComboBox comboBox30;
-        private System.Windows.Forms.Label label60;
-        private System.Windows.Forms.Label label61;
-        private System.Windows.Forms.Label label62;
-        private System.Windows.Forms.Label label63;
-        private System.Windows.Forms.Label label64;
-        private System.Windows.Forms.Label label65;
     }
 }
 
