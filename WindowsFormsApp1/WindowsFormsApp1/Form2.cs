@@ -86,7 +86,7 @@ namespace WindowsFormsApp1
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            string str = textBox1.Text;
+            MessageBox.Show("我投尼玛");
         }
     }
 }
