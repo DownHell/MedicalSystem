@@ -20,3 +20,4 @@ E:\GitHub代码\MedicalSystem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Window
 E:\GitHub代码\MedicalSystem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 E:\GitHub代码\MedicalSystem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\GitHub代码\MedicalSystem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\GitHub代码\MedicalSystem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
